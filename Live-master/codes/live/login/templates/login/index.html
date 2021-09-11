@@ -1,0 +1,15 @@
+ {% extends 'base.html' %} {% load staticfiles %} {% block title %}主页{% endblock %} {% block css %}
+<link href="{% static 'css/login.css' %}" rel="stylesheet" />{% endblock %} {% block content %}
+
+
+
+<br>
+<h3 style="margin-left: 40%;"> 正在进行中的直播：</h3>
+{% for live in curr_live %}
+<span>
+<h4 style="margin-left: 40%;">房  &nbsp间  &nbsp名：{{ live.roomName }}</h4>
+<h4 style="margin-left: 40%;">房  &nbsp间  &nbsp号：{{ live.roomId }}</h4>
+<h4 style="margin-left: 40%;">主&nbsp&nbsp讲&nbsp&nbsp人：{{ live.creater }}</h4>
+<h4 style="margin-left: 40%;">创建时间：{{ live.c_time }}</h4>
+</span>
+<br> {% endfor %} {% endblock %}

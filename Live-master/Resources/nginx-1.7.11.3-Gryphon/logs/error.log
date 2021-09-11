@@ -1,0 +1,216 @@
+2020/03/09 16:20:54 [notice] 10244#10292: sockinit() attempting to access sockapi
+2020/03/09 16:20:54 [notice] 10244#10292: Access to sockapi succeded!
+2020/03/09 16:20:54 [notice] 10244#10292: using sockapi from "4;8;"
+2020/03/09 16:20:55 [notice] 14376#9420: sockinit() attempting to access sockapi
+2020/03/09 16:20:55 [notice] 14376#9420: Access to sockapi succeded!
+2020/03/09 16:20:55 [notice] 14376#9420: using sockapi from "4;8;"
+2020/03/09 16:51:03 [emerg] 5988#4852: unexpected end of file, expecting ";" or "}" in D:\java\nginx-1.7.11.3-Gryphon/conf\nginx-win-rtmp.conf:192
+2020/03/09 16:51:34 [notice] 2468#9980: sockinit() attempting to access sockapi
+2020/03/09 16:51:34 [notice] 2468#9980: Access to sockapi succeded!
+2020/03/09 16:51:34 [notice] 2468#9980: using sockapi from "4;8;"
+2020/03/09 16:51:34 [notice] 7412#7252: sockinit() attempting to access sockapi
+2020/03/09 16:51:34 [notice] 7412#7252: Access to sockapi succeded!
+2020/03/09 16:51:34 [notice] 7412#7252: using sockapi from "4;8;"
+2020/03/09 18:02:25 [notice] 8700#8352: sockinit() attempting to access sockapi
+2020/03/09 18:02:25 [notice] 8700#8352: Access to sockapi succeded!
+2020/03/09 18:02:25 [notice] 8700#8352: using sockapi from "4;8;"
+2020/03/09 18:02:26 [notice] 11716#13716: sockinit() attempting to access sockapi
+2020/03/09 18:02:26 [notice] 11716#13716: Access to sockapi succeded!
+2020/03/09 18:02:26 [notice] 11716#13716: using sockapi from "4;8;"
+2020/03/09 18:47:10 [error] 11716#9716: *25 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/03/09 20:08:45 [notice] 11144#11064: sockinit() attempting to access sockapi
+2020/03/09 20:08:45 [notice] 11144#11064: Access to sockapi succeded!
+2020/03/09 20:08:45 [notice] 11144#11064: using sockapi from "4;8;"
+2020/03/09 20:08:46 [notice] 7884#7836: sockinit() attempting to access sockapi
+2020/03/09 20:08:46 [notice] 7884#7836: Access to sockapi succeded!
+2020/03/09 20:08:46 [notice] 7884#7836: using sockapi from "4;8;"
+2020/03/10 10:50:05 [notice] 13568#7692: sockinit() attempting to access sockapi
+2020/03/10 10:50:05 [notice] 13568#7692: Access to sockapi succeded!
+2020/03/10 10:50:05 [notice] 13568#7692: using sockapi from "4;8;"
+2020/03/10 10:50:05 [notice] 15068#6472: sockinit() attempting to access sockapi
+2020/03/10 10:50:05 [notice] 15068#6472: Access to sockapi succeded!
+2020/03/10 10:50:05 [notice] 15068#6472: using sockapi from "4;8;"
+2020/03/11 13:31:40 [notice] 15576#13732: sockinit() attempting to access sockapi
+2020/03/11 13:31:40 [notice] 15576#13732: Access to sockapi succeded!
+2020/03/11 13:31:40 [notice] 15576#13732: using sockapi from "4;8;"
+2020/03/11 13:31:41 [notice] 3336#15376: sockinit() attempting to access sockapi
+2020/03/11 13:31:41 [notice] 3336#15376: Access to sockapi succeded!
+2020/03/11 13:31:41 [notice] 3336#15376: using sockapi from "4;8;"
+2020/03/13 11:55:59 [notice] 1716#12544: sockinit() attempting to access sockapi
+2020/03/13 11:55:59 [notice] 1716#12544: Access to sockapi succeded!
+2020/03/13 11:55:59 [notice] 1716#12544: using sockapi from "4;8;"
+2020/03/13 11:56:00 [notice] 4652#1356: sockinit() attempting to access sockapi
+2020/03/13 11:56:00 [notice] 4652#1356: Access to sockapi succeded!
+2020/03/13 11:56:00 [notice] 4652#1356: using sockapi from "4;8;"
+2020/03/14 21:16:34 [notice] 3120#1480: sockinit() attempting to access sockapi
+2020/03/14 21:16:34 [notice] 3120#1480: Access to sockapi succeded!
+2020/03/14 21:16:34 [notice] 3120#1480: using sockapi from "4;8;"
+2020/03/14 21:16:35 [notice] 13108#8592: sockinit() attempting to access sockapi
+2020/03/14 21:16:35 [notice] 13108#8592: Access to sockapi succeded!
+2020/03/14 21:16:35 [notice] 13108#8592: using sockapi from "4;8;"
+2020/03/17 11:18:30 [notice] 5704#7092: sockinit() attempting to access sockapi
+2020/03/17 11:18:30 [notice] 5704#7092: Access to sockapi succeded!
+2020/03/17 11:18:30 [notice] 5704#7092: using sockapi from "4;8;"
+2020/03/17 11:18:31 [notice] 14900#14168: sockinit() attempting to access sockapi
+2020/03/17 11:18:31 [notice] 14900#14168: Access to sockapi succeded!
+2020/03/17 11:18:31 [notice] 14900#14168: using sockapi from "4;8;"
+2020/04/09 22:14:03 [notice] 12436#3380: sockinit() attempting to access sockapi
+2020/04/09 22:14:03 [notice] 12436#3380: Access to sockapi succeded!
+2020/04/09 22:14:03 [notice] 12436#3380: using sockapi from "4;8;"
+2020/04/09 22:14:03 [notice] 5820#7624: sockinit() attempting to access sockapi
+2020/04/09 22:14:03 [notice] 5820#7624: Access to sockapi succeded!
+2020/04/09 22:14:03 [notice] 5820#7624: using sockapi from "4;8;"
+2020/05/03 11:09:29 [notice] 9124#2032: sockinit() attempting to access sockapi
+2020/05/03 11:09:29 [notice] 9124#2032: Access to sockapi succeded!
+2020/05/03 11:09:29 [notice] 9124#2032: using sockapi from "4;8;"
+2020/05/03 11:09:30 [notice] 14196#3608: sockinit() attempting to access sockapi
+2020/05/03 11:09:30 [notice] 14196#3608: Access to sockapi succeded!
+2020/05/03 11:09:30 [notice] 14196#3608: using sockapi from "4;8;"
+2020/05/03 17:46:20 [notice] 10576#14268: sockinit() attempting to access sockapi
+2020/05/03 17:46:20 [notice] 10576#14268: Access to sockapi succeded!
+2020/05/03 17:46:20 [notice] 10576#14268: using sockapi from "4;8;"
+2020/05/03 17:46:20 [notice] 3960#3860: sockinit() attempting to access sockapi
+2020/05/03 17:46:20 [notice] 3960#3860: Access to sockapi succeded!
+2020/05/03 17:46:20 [notice] 3960#3860: using sockapi from "4;8;"
+2020/05/03 17:57:37 [emerg] 5280#2720: CreateFile() "D:\java\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/05/03 17:57:43 [emerg] 11052#4436: CreateFile() "D:\java\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/05/03 17:57:52 [emerg] 8224#4596: CreateFile() "D:\java\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/05/03 17:58:12 [emerg] 1468#12052: CreateFile() "D:\java\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/05/03 17:58:40 [notice] 12972#2780: Fatal: wait for sockapi failed
+2020/05/04 18:48:25 [notice] 8376#5640: sockinit() attempting to access sockapi
+2020/05/04 18:48:25 [notice] 8376#5640: Access to sockapi succeded!
+2020/05/04 18:48:25 [notice] 8376#5640: using sockapi from "4;8;"
+2020/05/04 18:48:25 [notice] 12152#7464: sockinit() attempting to access sockapi
+2020/05/04 18:48:25 [notice] 12152#7464: Access to sockapi succeded!
+2020/05/04 18:48:25 [notice] 12152#7464: using sockapi from "4;8;"
+2020/05/05 10:42:56 [notice] 13964#12796: sockinit() attempting to access sockapi
+2020/05/05 10:42:56 [notice] 13964#12796: Access to sockapi succeded!
+2020/05/05 10:42:56 [notice] 13964#12796: using sockapi from "4;8;"
+2020/05/05 10:42:57 [notice] 9812#7728: sockinit() attempting to access sockapi
+2020/05/05 10:42:57 [notice] 9812#7728: Access to sockapi succeded!
+2020/05/05 10:42:57 [notice] 9812#7728: using sockapi from "4;8;"
+2020/05/05 11:09:05 [notice] 11684#10912: sockinit() attempting to access sockapi
+2020/05/05 11:09:05 [notice] 11684#10912: Access to sockapi succeded!
+2020/05/05 11:09:05 [notice] 11684#10912: using sockapi from "4;8;"
+2020/05/05 11:09:05 [notice] 5684#1188: sockinit() attempting to access sockapi
+2020/05/05 11:09:05 [notice] 5684#1188: Access to sockapi succeded!
+2020/05/05 11:09:05 [notice] 5684#1188: using sockapi from "4;8;"
+2021/04/29 08:41:46 [emerg] 17692#4064: CreateFile() "D:\软件工程实践\参考\Live-master\Resources\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/07 10:22:17 [emerg] 20072#17140: CreateFile() "D:\软件工程实践\参考\Live-master\Resources\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/07 10:37:00 [notice] 13652#26344: sockinit() attempting to access sockapi
+2021/05/07 10:37:00 [notice] 13652#26344: Access to sockapi succeded!
+2021/05/07 10:37:00 [notice] 13652#26344: using sockapi from "4;84;"
+2021/05/07 10:37:00 [notice] 11772#24860: sockinit() attempting to access sockapi
+2021/05/07 10:37:00 [notice] 11772#24860: Access to sockapi succeded!
+2021/05/07 10:37:00 [notice] 11772#24860: using sockapi from "4;8;"
+2021/05/10 15:41:16 [notice] 25628#32984: sockinit() attempting to access sockapi
+2021/05/10 15:41:16 [notice] 25628#32984: Access to sockapi succeded!
+2021/05/10 15:41:16 [notice] 25628#32984: using sockapi from "4;84;"
+2021/05/10 15:41:39 [error] 25628#22892: *1 CreateFile() "D:\software\reference\Live-master\Resources\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/10 16:06:20 [error] 25628#22892: *4 hls: force fragment split: 50.067 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/05/10 17:14:59 [error] 25628#22892: *14 hls: force fragment split: 80.800 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/05/12 08:18:32 [emerg] 23104#9836: CreateFile() "D:\software\reference\Live-master\Resources\nginx-1.7.11.3-Gryphon/conf\ngnix-win-etmp.conf" failed (2: The system cannot find the file specified)
+2021/05/12 09:12:02 [notice] 32764#23328: sockinit() attempting to access sockapi
+2021/05/12 09:12:02 [notice] 32764#23328: Access to sockapi succeded!
+2021/05/12 09:12:02 [notice] 32764#23328: using sockapi from "4;116;"
+2021/05/12 09:24:58 [error] 32764#22432: *1 hls: force fragment split: 264.733 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/05/12 09:35:05 [error] 32764#22432: *1 hls: force fragment split: 519.000 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/05/13 08:37:24 [notice] 32704#33072: sockinit() attempting to access sockapi
+2021/05/13 08:37:24 [notice] 32704#33072: Access to sockapi succeded!
+2021/05/13 08:37:24 [notice] 32704#33072: using sockapi from "4;140;"
+2021/05/13 09:02:05 [error] 32704#29588: *1 hls: force fragment split: 87.767 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/05/20 08:29:58 [notice] 1576#2188: sockinit() attempting to access sockapi
+2021/05/20 08:29:58 [notice] 1576#2188: Access to sockapi succeded!
+2021/05/20 08:29:58 [notice] 1576#2188: using sockapi from "4;76;"
+2021/05/20 08:29:58 [notice] 11748#23944: sockinit() attempting to access sockapi
+2021/05/20 08:29:58 [notice] 11748#23944: Access to sockapi succeded!
+2021/05/20 08:29:58 [notice] 11748#23944: using sockapi from "4;8;"
+2021/05/20 09:28:58 [notice] 4456#17188: Fatal: wait for sockapi failed
+2021/05/20 10:16:25 [notice] 18132#21288: Fatal: wait for sockapi failed
+2021/05/28 00:12:55 [notice] 2004#7724: sockinit() attempting to access sockapi
+2021/05/28 00:12:55 [notice] 2004#7724: Access to sockapi succeded!
+2021/05/28 00:12:55 [notice] 2004#7724: using sockapi from "4;148;"
+2021/05/28 00:12:55 [notice] 7444#12012: sockinit() attempting to access sockapi
+2021/05/28 00:12:55 [notice] 7444#12012: Access to sockapi succeded!
+2021/05/28 00:12:55 [notice] 7444#12012: using sockapi from "4;8;"
+2021/05/28 23:17:18 [notice] 3964#3936: sockinit() attempting to access sockapi
+2021/05/28 23:17:18 [notice] 3964#3936: Access to sockapi succeded!
+2021/05/28 23:17:18 [notice] 3964#3936: using sockapi from "4;144;"
+2021/05/28 23:17:19 [notice] 8188#7624: sockinit() attempting to access sockapi
+2021/05/28 23:17:19 [notice] 8188#7624: Access to sockapi succeded!
+2021/05/28 23:17:19 [notice] 8188#7624: using sockapi from "4;8;"
+2021/06/02 08:53:00 [notice] 5124#8708: sockinit() attempting to access sockapi
+2021/06/02 08:53:00 [notice] 5124#8708: Access to sockapi succeded!
+2021/06/02 08:53:00 [notice] 5124#8708: using sockapi from "4;156;"
+2021/06/02 08:53:01 [notice] 5456#15408: sockinit() attempting to access sockapi
+2021/06/02 08:53:01 [notice] 5456#15408: Access to sockapi succeded!
+2021/06/02 08:53:01 [notice] 5456#15408: using sockapi from "4;8;"
+2021/06/02 15:57:32 [notice] 21560#15680: sockinit() attempting to access sockapi
+2021/06/02 15:57:32 [notice] 21560#15680: Access to sockapi succeded!
+2021/06/02 15:57:32 [notice] 21560#15680: using sockapi from "4;144;"
+2021/06/02 15:57:32 [notice] 18420#820: sockinit() attempting to access sockapi
+2021/06/02 15:57:32 [notice] 18420#820: Access to sockapi succeded!
+2021/06/02 15:57:32 [notice] 18420#820: using sockapi from "4;8;"
+2021/06/02 17:42:00 [notice] 18028#24320: Fatal: wait for sockapi failed
+2021/06/03 08:55:45 [notice] 6760#3584: sockinit() attempting to access sockapi
+2021/06/03 08:55:45 [notice] 6760#3584: Access to sockapi succeded!
+2021/06/03 08:55:45 [notice] 6760#3584: using sockapi from "4;144;"
+2021/06/03 08:55:45 [notice] 4072#16616: sockinit() attempting to access sockapi
+2021/06/03 08:55:45 [notice] 4072#16616: Access to sockapi succeded!
+2021/06/03 08:55:45 [notice] 4072#16616: using sockapi from "4;8;"
+2021/06/07 15:14:13 [notice] 22232#7868: sockinit() attempting to access sockapi
+2021/06/07 15:14:13 [notice] 22232#7868: Access to sockapi succeded!
+2021/06/07 15:14:13 [notice] 22232#7868: using sockapi from "4;144;"
+2021/06/07 15:14:14 [notice] 19968#780: sockinit() attempting to access sockapi
+2021/06/07 15:14:14 [notice] 19968#780: Access to sockapi succeded!
+2021/06/07 15:14:14 [notice] 19968#780: using sockapi from "4;8;"
+2021/06/15 16:39:12 [notice] 13360#20772: sockinit() attempting to access sockapi
+2021/06/15 16:39:12 [notice] 13360#20772: Access to sockapi succeded!
+2021/06/15 16:39:12 [notice] 13360#20772: using sockapi from "4;144;"
+2021/06/15 16:39:13 [notice] 15752#21260: sockinit() attempting to access sockapi
+2021/06/15 16:39:13 [notice] 15752#21260: Access to sockapi succeded!
+2021/06/15 16:39:13 [notice] 15752#21260: using sockapi from "4;8;"
+2021/06/16 14:40:34 [notice] 2296#13372: sockinit() attempting to access sockapi
+2021/06/16 14:40:34 [notice] 2296#13372: Access to sockapi succeded!
+2021/06/16 14:40:34 [notice] 2296#13372: using sockapi from "4;144;"
+2021/06/16 14:40:35 [notice] 6212#7736: sockinit() attempting to access sockapi
+2021/06/16 14:40:35 [notice] 6212#7736: Access to sockapi succeded!
+2021/06/16 14:40:35 [notice] 6212#7736: using sockapi from "4;8;"
+2021/06/16 20:31:53 [notice] 16904#4312: sockinit() attempting to access sockapi
+2021/06/16 20:31:53 [notice] 16904#4312: Access to sockapi succeded!
+2021/06/16 20:31:53 [notice] 16904#4312: using sockapi from "4;144;"
+2021/06/16 20:31:54 [notice] 15736#15752: sockinit() attempting to access sockapi
+2021/06/16 20:31:54 [notice] 15736#15752: Access to sockapi succeded!
+2021/06/16 20:31:54 [notice] 15736#15752: using sockapi from "4;8;"
+2021/06/16 21:30:07 [notice] 6440#6504: sockinit() attempting to access sockapi
+2021/06/16 21:30:07 [notice] 6440#6504: Access to sockapi succeded!
+2021/06/16 21:30:07 [notice] 6440#6504: using sockapi from "4;148;"
+2021/06/16 21:30:07 [notice] 10680#10600: sockinit() attempting to access sockapi
+2021/06/16 21:30:07 [notice] 10680#10600: Access to sockapi succeded!
+2021/06/16 21:30:07 [notice] 10680#10600: using sockapi from "4;8;"
+2021/06/26 08:36:24 [notice] 16684#16300: sockinit() attempting to access sockapi
+2021/06/26 08:36:24 [notice] 16684#16300: Access to sockapi succeded!
+2021/06/26 08:36:24 [notice] 16684#16300: using sockapi from "4;148;"
+2021/06/26 08:36:24 [notice] 18416#18412: sockinit() attempting to access sockapi
+2021/06/26 08:36:24 [notice] 18416#18412: Access to sockapi succeded!
+2021/06/26 08:36:24 [notice] 18416#18412: using sockapi from "4;8;"
+2021/07/07 19:22:16 [notice] 20008#18100: sockinit() attempting to access sockapi
+2021/07/07 19:22:16 [notice] 20008#18100: Access to sockapi succeded!
+2021/07/07 19:22:16 [notice] 20008#18100: using sockapi from "4;152;"
+2021/07/08 23:37:21 [notice] 18692#5260: sockinit() attempting to access sockapi
+2021/07/08 23:37:21 [notice] 18692#5260: Access to sockapi succeded!
+2021/07/08 23:37:21 [notice] 18692#5260: using sockapi from "4;144;"
+2021/07/08 23:37:22 [notice] 1948#244: sockinit() attempting to access sockapi
+2021/07/08 23:37:22 [notice] 1948#244: Access to sockapi succeded!
+2021/07/08 23:37:22 [notice] 1948#244: using sockapi from "4;8;"
+2021/09/09 22:19:37 [notice] 1564#14664: sockinit() attempting to access sockapi
+2021/09/09 22:19:37 [notice] 1564#14664: Access to sockapi succeded!
+2021/09/09 22:19:37 [notice] 1564#14664: using sockapi from "4;92;"
+2021/09/09 22:24:11 [error] 1564#18400: *3 CreateFile() "D:\software\reference\My_software\Live-master\Resources\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2021/09/09 22:25:16 [error] 1564#18400: *2 hls: force fragment split: 56.200 sec, , client: 127.0.0.1, server: 0.0.0.0:1935
+2021/09/10 12:28:24 [notice] 13228#19828: sockinit() attempting to access sockapi
+2021/09/10 12:28:24 [notice] 13228#19828: Access to sockapi succeded!
+2021/09/10 12:28:24 [notice] 13228#19828: using sockapi from "4;8;"
+2021/09/11 09:30:07 [notice] 19068#19064: sockinit() attempting to access sockapi
+2021/09/11 09:30:07 [notice] 19068#19064: Access to sockapi succeded!
+2021/09/11 09:30:07 [notice] 19068#19064: using sockapi from "4;108;"

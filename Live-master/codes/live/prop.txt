@@ -1,0 +1,4 @@
+rtmp://localhost:1935
+HP Wide Vision HD
+麦克风阵列 (Realtek High Definition Audio)
+virtual-audio-capturer
